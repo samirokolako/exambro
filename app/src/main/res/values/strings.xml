@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EXAM Browser</string>
+    <string name="school_name">SMK NEGERI 1 JUWANGI</string>
+    <string name="school_location">Boyolali - Jawa Tengah</string>
+    <string name="school_tagline">Browser Pengaman Ujian Khusus SMK Negeri 1 Juwangi</string>
+    <string name="scan_qr_button">SCAN QR</string>
+    <string name="exit_app_button">KELUAR APLIKASI</string>
+    <string name="exit_dialog_title">Keluar dari EXAM Browser?</string>
+    <string name="exit_dialog_message">Masukkan kode keluar untuk menutup aplikasi.</string>
+    <string name="exit_code_hint">Masukkan 4 digit kode</string>
+    <string name="button_back">KEMBALI</string>
+    <string name="button_ok">OKE</string>
+    <string name="error_exit_code_wrong">Kode keluar salah</string>
+    <string name="scanner_instruction">Arahkan kamera ke QR Code Ujian yang disediakan pengawas</string>
+    <string name="error_invalid_qr">QR Code tidak valid! Hanya menerima URL ujian HTTPS resmi.</string>
+    <string name="error_camera_permission">Izin kamera diperlukan untuk memindai QR Code ujian.</string>
+    <string name="kiosk_mode_active">Mode Kiosk: Terkunci Penuh (Lock Task Aktif)</string>
+    <string name="kiosk_mode_standard">Mode Standar (Kiosk Administrator Belum Diaktifkan)</string>
+    <string name="exam_active_banner">SESI UJIAN AKTIF — SMK N 1 JUWANGI</string>
+    <string name="finish_exam">AKHIRI UJIAN</string>
+    <string name="reload_page">MUAT ULANG</string>
+    <string name="cheat_warning_title">PERINGATAN PELANGGARAN!</string>
+    <string name="cheat_warning_message">Dilarang berpindah aplikasi atau membuka link eksternal selama ujian!</string>
+</resources>

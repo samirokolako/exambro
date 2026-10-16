@@ -1,0 +1,6 @@
+{
+  "name": "EXAM Browser",
+  "description": "Browser Pengaman Ujian Khusus SMK Negeri 1 Juwangi Boyolali",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
